@@ -28,3 +28,8 @@ btns.forEach(function(btn) {
     })
 });
 
+
+
+let s = s;
+
+
